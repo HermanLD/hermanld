@@ -34,7 +34,7 @@
   </a>
 
   <a href="https://webpack.js.org/">
-    <img alt="webpack" width="26px" src="https://webpack.js.org/dcd5e077cf9f54ebe52d4f7ebe8c3080.png" />
+    <img alt="webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />
   </a>
 
   <a href="https://parceljs.org/">
