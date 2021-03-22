@@ -1,6 +1,6 @@
 # Hi, I'm Herman Dardon 👋
 
-## I'm a self-taught Front-end Developer from Reno, Nevada. Creating web apps and building sites with javascript
+## I'm a self-taught Front-end Developer from Reno, Nevada.
 
 ### Languages and Tools
 
