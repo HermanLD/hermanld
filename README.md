@@ -25,49 +25,15 @@
     <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png" />
   </a>
 
-  <a href="https://sass-lang.com/">
-    <img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png" />
-  </a>
-
-  <a href="https://getbootstrap.com/">
-    <img alt="bootstrap" width="26px" src="https://pbs.twimg.com/profile_images/1273081551354396672/-Tzadxix.jpg" />
-  </a>
-
   <a href="https://webpack.js.org/">
-    <img alt="webpack" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />
+    <img alt="webpack - javaScript bundler" width="26px" src="https://raw.githubusercontent.com/webpack/media/master/logo/icon-square-big.png" />
   </a>
+  
+  <a href="https://nuxtjs.org/">
+    <img alt="nuxt - framework for vue apps w/ support for SSR, SSG, and SPAs" width="26px" src="https://seeklogo.com/images/N/nuxt-logo-5EF50E1ABD-seeklogo.com.png" />
+  </a>
+  
 
-  <a href="https://parceljs.org/">
-    <img alt="parcel" width="26px" src="https://parceljs.org/assets/parcel-og.png" />
-  </a>
-
-  <a href="https://www.11ty.dev/">
-    <img alt="eleventy" width="26px" src="https://www.mattnortham.com/assets/img/blog/2020/11ty.jpg" />
-  </a>
-
-  <a href="https://www.npmjs.com/">
-    <img alt="npm" width="26px" src="https://authy.com/wp-content/uploads/npm-logo.png" />
-  </a>
-
-  <a href="https://www.json.org/">
-    <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" />
-  </a>
-
-  <a href="https://eslint.org/">
-    <img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png" />
-  </a>
-
-  <a href="https://daringfireball.net/projects/markdown/">
-    <img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png" />
-  </a>
-
-  <a href="https://git-scm.com/">
-    <img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png" />
-  </a>
-
-  <a href="https://github.com/">
-    <img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" />
-  </a>
 </code>
 
 #### NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github
